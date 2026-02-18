@@ -4,7 +4,7 @@
 
 **Copyright Notice**: The PowerSchool API is copyright to PowerSchool. All rights reserved.
 
-**Disclaimer**: Use at your own risk. These documents were produced idependantly and may contain errors and are provided as-is without warranty of any kind. Users should verify all information with official PowerSchool documentation and resources.
+**Disclaimer**: Use at your own risk. These documents were produced independently and may contain errors and are provided as-is without warranty of any kind. Users should verify all information with official PowerSchool documentation and resources.
 
 **Contributing**: If you find errors in these documents, feel free to submit change requests or issues to help improve the accuracy of the documentation.
 
